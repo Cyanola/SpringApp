@@ -21,4 +21,4 @@
 > [__Содержимое класса User__](SpringApp/src/main/java/mephi/digitalfaculty/SpringApp/model/User.java) `User`<br>
 > [__Содержимое класса UserRepository__](SpringApp/src/main/java/mephi/digitalfaculty/SpringApp/model/UserRepository.java) `UserRepository`<br>
 > [__Содержимое класса UserService__](SpringApp/src/main/java/mephi/digitalfaculty/SpringApp/model/UserService.java) `UserService`<br>
-> [__Содержимое класса UserController__](SpringApp/src/main/java/mephi/digitalfaculty/SpringApp/model/UserController.java) `UserController`<br>
+> [__Содержимое класса UserController__](SpringApp/src/main/java/mephi/digitalfaculty/SpringApp/controller/UserController.java) `UserController`<br>
